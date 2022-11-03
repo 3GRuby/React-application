@@ -8,7 +8,6 @@ const ProductCard = ({ product }) => {
   const { name, price, imageUrl } = product;
 
   const addProductToCart = () => {
-    console.log("ggo");
     addItemToCart(product);
   };
   return (
