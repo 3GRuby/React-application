@@ -18,7 +18,6 @@ export const ImageContainer = styled.div`
     height: 100%;
   }
 `;
-
 export const BaseSpan = styled.span`
   width: 23%;
 `;
